@@ -1,0 +1,7 @@
+-Xms2g
+-Xmx3g
+-Xss2m
+-XX:+UseG1GC
+-Dscala.color=true
+-Dsbt.supershell=true
+-Djdk.console=java.base
